@@ -6,3 +6,4 @@
 | Terraform Documentation | https://www.terraform.io/docs/index.html |
 | Deploy Infra in the cloud using terraform | https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform |
 | C4 Model Architecture | https://c4model.com/ |
+| ADR | https://github.com/joelparkerhenderson/architecture-decision-record |
